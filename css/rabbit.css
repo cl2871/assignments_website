@@ -1,0 +1,64 @@
+/* selectors look like this: */
+h1 {
+	/*rules look like this: */
+	font-family: helvetica;
+	color: blue;
+	background-color: green;
+	/*rules necessary to show a border*/
+	border-width: 5px;
+	border-style: solid;
+	border-color: red;
+}
+
+/*generic image style*/
+img {
+	border-width: 1px;
+	border-style: dotted;
+	border-color: green;
+}
+
+/*specific image style*/
+img#logo {
+	border-width: 0px;
+}
+
+/* generic style for paragraphs*/
+p {
+	font-family: georgia;
+	font-size: 12px;
+	padding: 10px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+
+}
+
+strong {
+	font-weight: bold;
+	color: red;
+	text-decoration: underline;
+
+}
+
+p#para2, p#para3 {
+	background-color: purple;
+}
+
+a.orange {
+	color: gray;
+}
+
+em {
+	text-decoration: overline;
+	font-weight: bold;
+}
+
+li.odd {
+	font-size: 20px;
+	color: blue;
+}
+
+img#rabbit {
+	padding: 20px;
+	background-image: url(../images/coyote.jpg);
+}

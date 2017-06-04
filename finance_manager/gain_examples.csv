@@ -1,0 +1,13 @@
+gain_id,item,gain_type,amount,acknowledged,earned,memo,user_id
+1,SF Rent,Ownership Investment,50000,2011-03-11 22:21:01,1,monthly,TRACEY
+2,Tesla Stock,Ownership Investment,12,2010-12-01 22:22:22,1,capital gains from sale,CHRIS
+3,Bank of America Savings,Lending Investment,123.45,2012-12-25 05:23:01,1,annual gain,ALEC
+4,NYU Check,Work,120,2016-06-27 16:26:19,1,need moar money,JASON
+5,Vanguard Dividends,Ownership Investment,8700.32,2006-09-11 00:22:01,0,I want sushi,DAVID
+6,Honorarium,Other,300,2014-03-02 02:24:31,1,Spoken Word March,ANDY
+7,NY Rent,Ownership Investment,4501.05,2016-01-21 23:59:31,0,waiting until end of April,NATALIE
+8,Netflix Stock,Ownership Investment,-2231.55,2012-07-02 01:39:28,1,mistakes were made,SELENA
+9,Worker's Comp,Other,1223.23,2015-10-23 08:31:52,0,this year has not been good,JAYCIE
+10,Apple Bonds,Lending Investment,93665,2016-02-28 12:24:01,1,moneyyyyyy,TRACEY
+11,Birthday Present,Other,230,2016-03-12 21:03:56,0,I need this,CHRIS
+12,Consultation Fees,Work,7392,2015-02-11 22:01:24,0,do not pull an all-nightee again,MINSOO

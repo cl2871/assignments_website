@@ -1,0 +1,134 @@
+body {
+	margin-left: 0px;
+}
+
+div.container {
+	width: 1200px;
+	margin: 0px;
+	margin-top: 90px;
+}
+
+div.clear {
+	clear: both;
+}
+
+
+header {
+	position: fixed;
+	top: 0px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	background-color: rgb(248,248,248);
+}
+
+h1#chris_heading {
+	font-size: 30px;
+	font-family: calibri;
+	font-weight: bold;
+	float:left;
+	padding-top: 3px;
+	text-align: center;
+	width: 420px;
+	margin: 0px;
+	border-width: 0px;
+	border-style: solid;
+	border-color: black;
+	background-color: rgb(192,192,192);
+}
+
+h2 {
+	font-size: 26px;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 22px;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 20px;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+nav#main {
+	float: left;
+}
+
+nav#main ul li {
+	float:left;
+	width: 251px;
+	font-size: 28px;
+	font-weight: bold;
+	font-family: calibri;
+	text-align: center;
+	padding-top: 6px; 
+}
+
+nav#main ul li a:link, nav#main ul li a:visited {
+	color: rgb(40,40,40);
+}
+
+nav#main ul li a:hover, nav#main ul li a:active {
+	color: rgb(128,128,128);
+}
+
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:link {
+	color: #000033;
+}
+
+a:visited {
+	color: #993300;
+}
+
+a:hover {
+	color: #000033;
+}
+
+a:active {
+	color: #006600;
+}
+
+ul {
+	list-style: none;
+	border: 0px;
+	padding: 0px;
+}
+
+h2, h3, h4 {
+	margin-left: 50px;
+}
+
+p, ul.normal {
+	margin-left: 75px;
+	font-size: 16px;
+	font-family: georgia;
+}
+
+ol {
+	padding: 0px;
+}
+
+img, figcaption, iframe, table, ol.normal {
+	margin-left: 95px;
+	font-size: 16px;
+	font-family: georgia;
+}
+
+p, li {
+	width: 1000px;
+}
+
+figure {
+	margin: 0px;
+}

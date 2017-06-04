@@ -1,0 +1,193 @@
+body {
+	margin: 0px;
+}
+
+div.container {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 90px;
+}
+
+div.clear {
+	clear: both;
+}
+
+
+header {
+	position: fixed;
+	top: 0px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	background-color: rgb(248,248,248);
+}
+
+h1#chris_heading {
+	font-size: 24px;
+	font-family: calibri;
+	font-weight: bold;
+	float:left;
+	padding-top: 8px;
+	text-align: center;
+	width: 301px;
+	margin: 0px;
+	border-width: 0px;
+	border-style: solid;
+	border-color: black;
+	background-color: rgb(192,192,192);
+}
+
+h2 {
+	font-size: 26px;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 22px;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 20px;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+nav#main {
+	float: left;
+}
+
+nav#main ul li {
+	float:left;
+	width: 157px;
+	font-size: 22px;
+	font-weight: bold;
+	font-family: calibri;
+	text-align: center;
+	padding-top: 6px; 
+}
+
+nav#main ul li a:link, nav#main ul li a:visited {
+	color: rgb(40,40,40);
+}
+
+nav#main ul li a:hover, nav#main ul li a:active {
+	color: rgb(128,128,128);
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:link {
+	color: #000033;
+}
+
+a:visited {
+	color: #993300;
+}
+
+a:hover {
+	color: #000033;
+}
+
+a:active {
+	color: #006600;
+}
+
+ul {
+	list-style: none;
+	border: 0px;
+	padding: 0px;
+}
+
+h2, h3, h4 {
+	margin-left: 40px;
+}
+
+p, ul.normal {
+	margin-left: 55px;
+	font-size: 16px;
+	font-family: georgia;
+}
+
+ol {
+	padding: 0px;
+}
+
+iframe {
+	margin-left: 100px;
+	font-size: 16px;
+	font-family: georgia;
+}
+
+table {
+	margin-left: 25px;
+	font-size: 16px;
+	font-family: georgia;
+}
+
+ol.normal {
+	margin-left: 75px;
+	font-size: 16px;
+	font-family: georgia;
+}
+
+p, li {
+	width: 700px;
+}
+
+figure {
+	margin-left: 40px;
+	margin-right: 0px;
+}
+
+figure#chris {
+	float: left;
+}
+
+section#professional h2 {
+	margin-bottom: 0px;
+}
+
+figure#chris img {
+	margin-top: 90px;
+	width: 320px;
+}
+
+article#overview {
+	float: left;
+}
+
+article#overview p, article#overview ul li {
+	width: 320px;
+}
+
+article#assignments, article#assignments_homepage, article#assignments_2 {
+	float:left;
+}
+
+article#assignments_homepage p, article#assignments ol li, article#assignments_2 ol li {
+	width: 320px;
+}
+
+article#recipe div ul li {
+	width: 200px;
+}
+
+article#recipe div ol li {
+	width: 400px;
+}
+
+article#recipe div#ingredients, article#recipe div#preparation {
+	float:left;
+}
+
+article#tomato_egg_video p {
+	margin-left: 190px;
+	width: 400px;
+}

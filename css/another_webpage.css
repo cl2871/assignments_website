@@ -1,0 +1,42 @@
+body {
+	margin: 0px;
+}
+
+div.container {
+	width: 1200px;
+	margin: 0px;
+
+}
+
+p {
+	background-color: orange;
+}
+
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+h1 {
+	width: 400px;
+	margin: 0px;
+	background-color: blue;
+	float: left;
+}
+
+header#foo nav {
+	float: right;
+	background-color: red;
+	width: 800px;
+}
+
+header#foo nav ul li {
+	float: left;
+	width: 160px;
+	text-align: center;
+}
+
+div.clear {
+	clear: both;
+}
